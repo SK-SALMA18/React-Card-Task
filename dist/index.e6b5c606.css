@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+}
+
+body {
+  background-image: url("image2.72db5c3f.jpg");
+  background-position: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+.container {
+  color: #dc143c;
+  background-image: url("image1.bde9b8a2.jpg");
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  display: flex;
+}
+
+.logo {
+  color: #7fffd4;
+  margin-left: 1rem;
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.item {
+  display: flex;
+}
+
+.ul {
+  margin: 25px;
+  display: flex;
+}
+
+a {
+  margin: 0 1rem;
+  list-style: none;
+}
+
+li {
+  margin: 0 1rem;
+  text-decoration: none;
+  list-style: none;
+}
+
+h2 {
+  color: #dc143c;
+  font-family: Times New Roman, Times, serif;
+  font-size: 30px;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.foot {
+  color: #00008b;
+  text-align: center;
+  background-image: url("image1.bde9b8a2.jpg");
+  padding: 30px;
+}
+
+.card {
+  background-color: #f0f8ff;
+  border: 2px solid #000;
+  border-radius: 5px;
+  flex-direction: column;
+  margin: 5px;
+  display: inline-block;
+}
+
+.carts {
+  background-image: url("image3.7a60fb40.jpg");
+  background-position: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+.whistiles {
+  background-image: url("image2.72db5c3f.jpg");
+  background-position: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+/*# sourceMappingURL=index.e6b5c606.css.map */
